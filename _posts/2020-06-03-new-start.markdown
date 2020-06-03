@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "New Start"
+date:   2020-06-03 15:46:00 +0800
+categories: Thought
+---
+![Begin](https://images.unsplash.com/photo-1502101872923-d48509bff386?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1778&q=80)
+
+It's been a long time since I wrote a blog last time. 
+I remember when I was in high school I kept up the habit of blogging. At that time, `NetEase` blogs ware very popular and there was no `Sina Weibo`.  After school, I am always busy with various chores, and it's hard to have time to calm down and write something.  
+I hope to start again from here.
+
+```python
+def start:
+    while True:
+        do_awesome()
+    
+start()
+```
