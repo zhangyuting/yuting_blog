@@ -21,13 +21,15 @@
 title: Yuting'Log
 email: zhangyutingzyt1989@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This blog includes posts related to machine learning, nlp, cool
+  data science applications. As my personal blog, it may have thoughts,
+  stories and ideas as well.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://zhangyuting.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: zhangyuting
 github_username:  zhangyuting
+
+author: "Yuting Zhang"
 
 # Build settings
 theme: minima
@@ -38,7 +40,7 @@ plugins:
 google_analytics: UA-168691021-1
 
 disqus:
-    shortname: zhangyuting-github-pages
+    shortname: zhangyuting
 
 # Exclude from processing.
 # The following items will not be processed, by default.
