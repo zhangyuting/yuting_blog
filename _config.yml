@@ -38,7 +38,7 @@ plugins:
 google_analytics: UA-168691021-1
 
 disqus:
-    shortname: zhangyuting.disqus.com
+    shortname: zhangyuting
 
 # Exclude from processing.
 # The following items will not be processed, by default.
