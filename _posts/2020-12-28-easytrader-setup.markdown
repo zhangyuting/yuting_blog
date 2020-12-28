@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "EasyTrader搭建和测试"
+title:  "EasyTrader股票自动化交易搭建和测试"
 date:   2020-12-28 16:52:00 +0800
 categories: Quant
 ---
 ![Begin](https://images.unsplash.com/photo-1583752028088-91e3e9880b46?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2167&q=80)
+
 对于我们韭菜来说，想调用程序化接口去买卖A股股票来说是不可能的。那么如何用程序帮助我们自动化下单来帮我们亏的更快呢？EasyTrader是一个好的选择。
 EasyTrader是一个有4.6K Star的项目，我主要看重其通过操作同花顺来下单、以及账户查询的这种功能。通过自动化下单，往往可以买卖到更加理想的价格，同时也帮我省心省力。
+EasyTrader的核心原理是操作交易软件，由于主流交易软件都是在Windows平台下，因此本文的搭建大背景是在Windows下。
 ## 安装
 EasyTrader的安装稍有点复杂，不是仅仅装一个软件。我这里提供的方法仅仅是目前有效，更多细节可以参考EasyTrader[官方文档](https://easytrader.readthedocs.io/zh/master/)。
 ```bash
